@@ -31,7 +31,7 @@ A powerful and user-friendly Bash script to automate Nginx configuration, revers
 ## 🚀 Usage
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-username/nginx-ssl-manager.git
+git clone https://github.com/vimrul/nginx-ssl-manager.git
 cd nginx-ssl-manager
 ```
 
